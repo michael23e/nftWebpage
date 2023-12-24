@@ -100,3 +100,14 @@ hr {
   border-radius: 50%;
   margin-right: 15px;
 }
+
+.attribution p{
+  padding:  10px 0;
+  color: var(--White);
+  font-size: 20px;
+}
+.attribution a{
+  text-decoration: underline;
+  color: var(--Cyan);
+
+}
